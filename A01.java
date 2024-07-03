@@ -26,7 +26,7 @@ import java.util.Scanner;
 
 class Main {
   public static void main(String[] args) {
-    Main stepA = new Main();
+    A02 stepA = new A02();
     stepA.a01();
   }
 
